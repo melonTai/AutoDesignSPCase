@@ -1,0 +1,6 @@
+[submodule "ScrapeDesign"]
+	path = ScrapeDesign
+	url = https://github.com/melonTai/ScrapeDesign.git
+[submodule "AutoMe_q"]
+	path = AutoMe_q
+	url = https://github.com/melonTai/AutoMe_q.git
